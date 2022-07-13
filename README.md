@@ -1,1 +1,2 @@
-# class-18-colorfull-trex-template
+# PROC18-V3ColorfullTrex
+Colorful Trex
